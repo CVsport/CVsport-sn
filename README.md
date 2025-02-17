@@ -1,2 +1,0 @@
-# CVsport-sn
-For SoccerNet
